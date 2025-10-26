@@ -6,7 +6,6 @@ ProcTrack is a FastAPI-based tool that verifies XML procedure links and manages 
 
 ### 1. Clone the Repository
 git clone https://github.com/KhadeejaTap/proctrack
-cd proctrack
 
 ### 2. Create and Activate Virtual Environment
 python -m venv venv
