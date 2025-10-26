@@ -9,7 +9,9 @@ git clone https://github.com/KhadeejaTap/proctrack
 
 ### 2. Create and Activate Virtual Environment
 python -m venv venv
+
 venv\Scripts\activate   # On Windows
+
 source venv/bin/activate   # On Mac/Linux
 
 ### 3. Install Dependencies
